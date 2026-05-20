@@ -1,3 +1,5 @@
+// Force rebuild v2 - Next.js 15.5.18
+/** @type {import('next').NextConfig} */
 {
   "name": "b2b-lead-finder-pro",
   "version": "2.0.0",
@@ -20,5 +22,3 @@
     "tailwindcss": "^4.1.6"
   }
 }
-// Force rebuild v2 - Next.js 15.5.18
-/** @type {import('next').NextConfig} */
