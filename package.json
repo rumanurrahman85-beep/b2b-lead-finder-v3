@@ -20,3 +20,5 @@
     "tailwindcss": "^4.1.6"
   }
 }
+// Force rebuild v2 - Next.js 15.5.18
+/** @type {import('next').NextConfig} */
